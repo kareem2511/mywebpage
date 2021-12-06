@@ -1,11 +1,16 @@
 <!doctype html>
 <html>
 <head>
-<title>Our Funky HTML Page</title>
+<title>Football</title>
 <meta name="description" content="Our first page">
-<meta name="keywords" content="html tutorial template">
+<meta name="keywords" content="Football">
 </head>
 <body>
-Content goes here.
+  <style> 
+    body {
+   background-color: rgb(255,0,0)
+    }
+  </style>
+
 </body>
 </html>
