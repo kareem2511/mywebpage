@@ -32,7 +32,7 @@ li {
 <body>
   <header>
     <img src="/assets/jeff.png">
-    <h1>Jeff's Blog</h1>
+    <h1>Soccer</h1>
     <ul>
       <li><a href="#">When and who created Soccer</a></li>
       <li><a href="#">The progress of Soccer</a></li>
