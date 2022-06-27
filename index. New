@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+
+
+
+
+<head>
+
+
+<link href="/assets/normalize.css" rel="stylesheet">
+
+
+<style>
+
+
+ ol {
+
+
+   text align: center;
+
+
+ 
+
+
+     color: black;
+
+
+ }
+
+
+header {
+
+
+ text-align: center;
+
+
+ background-image: linear-gradient(rgb(255, 255, 255), rgb(252, 252, 121), rgb(232, 232, 0));
+
+
+ background-size: cover;
+
+
+ color: white;
+
+
+}
+
+
+a { color: white;
+
+
+}
+
+
+ h1 {
+
+
+   font-size: 70px;
+
+
+ }
+
+
+ img {
+
+
+   margin: 40px 0px 0px 0px;
+
+
+   border: 7px solid white;
+
+
+   border-radius: 20px;
+
+
+   text-align: center;
+
+
+ }
+
+
+ul {
+
+
+ padding: 10px;
+
+
+  background-image: linear-gradient(rgb(110, 144, 255), rgb(63, 108, 252), rgb(0, 43, 179));
+
+
+ color: white;
+
+
+}
+
+
+li {
+
+
+ display: inline;
+
+
+ padding: 0px 7.5px 0px 7.5px;
+
+
+ text-align: center;
+
+
+}
+
+
+}
+
+
+ </style>
+
+
+ <style>
+
+
+ h1 {
+
+
+   color: rgb(255,0,0)
+
+
+   }
+
+
+     h3 {
+
+
+       text-align: center;
+
+
+       color: red;
+
+
+       font-size: 25px;
+
+
+   }
+
+
+   h2 {
+
+
+     text-align: center;
+
+
+   }
+
+
+   img {
+
+
+     text-align: center;
+
+
+   }
+
+
+   body {
+
+
+     text-align: center;
+
+
+     background-image: linear-gradient(rgb(255, 255, 255), rgb(165, 255, 130), rgb(58, 207, 0));
+
+
+   }
+
+
+</style>
+
+
+</head>
+
+
+<body>
+
+
+ <header>
+
+
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpdnqEDdGD9uiDcCN5M_lEOIm7QBzWVHJVwQ&usqp=CAU" width="400">
+
+
+   <h1>Soccer</h1>
+
+
+      <h3> <strong> This website encludes everything in the following list below <br>
+
+
+        We hope you can learn all about soccer </strong> </h3>
+
+
+  
+
+
+   <ul>
+
+
+     <strong> <li>When and who created Soccer</li>    
+
+
+     <li>The progress of Soccer</li>
+
+
+     <li> The rules</li>
+
+
+       <li>Famous players</li>
+
+
+         </strong>
+
+
+   </ul>
+
+
+   </header>
+
+
+   <style>
+
+
+     h4 {
+
+
+       font-size: 12px;
+
+
+     }
+
+
+   body {
+
+
+  background-color: rgb(192,192,192)
+
+
+    font-size: 13px;
+
+
+   }
+
+
+     p {
+
+
+       text-align: center;
+
+
+       font-size: 16px;
+
+
+       color: black;
+
+
+     }
+
+
+ </style>
+
+
+ <br>
+
+
+   <br>
+
+
+ <br>
+
+
+   <h2> <strong> When was soccer created? And who created it?</strong></h2>
+
+
+   <p>      Football was created 159 years ago in 1863 in england. However, the first start of kicking a ball started in the 2nd century.
+
+
+       They called this<em> tsu chu.</em> The chineas military were the ones that created <em> tsu chu.</em> The genious who created this sport is<strong> Kemari. </strong>
+
+
+       This amazing sport is still played right now in modern times. </p>
+
+
+   <img src="https://static01.nyt.com/images/2020/09/25/sports/25soccer-nationalWEB1/merlin_177451008_91c7b66d-3c8a-4963-896e-54280f374b6d-jumbo.jpg?quality=75&auto
+
+
+             =webp" width="500">
+
+
+   <br>
+
+
+   <h2> <strong> The progress of soccer </strong> </h2>
+
+
+   <p>Soccer progressed until what we see now which is a perfect fine sport which many people play. Soccer started of in ancient china about 2000 years ago.
+
+
+       But many other countres like Greece and Rome also claimed that the sport was for them. But it was England that transitioned soccer. At the beginning of
+
+
+       soccer they played with small leather balls which could pop or get desroyed really easily but then they started developing the ball into what we see now:  </p>
+
+
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4JKAllV7RVhue-XgSgxIk5N0S5o7tTFOWIw&usqp=CAU" width="95"> <br>
+
+
+   <br>
+
+
+     <p> They also developed some new moves and skills that made the game more enjoyable for the fans as well as the players. </p>
+
+
+                                                           
+
+
+    <br>
+
+
+   
+
+
+  
+
+
+   <h2> The rules </h2>
+
+
+   <ol>
+
+
+      
+
+
+       <il> <strong> Hands: </strong> <br>          
+
+
+                This rule only goes to the players that are not in goal because they are not allowed to hold the ball in there hands or it will be cheating and the other team
+
+
+              will get a freekick, or a penalty if they touched it inside the box. <br>
+
+
+         <br>
+
+
+             
+
+
+                                                 <il>   <strong>  Corner Kicks & Goal Kicks </strong> <br>
+
+
+                                                     Corner kicks and goal kicks only happen when the other team shoots the ball out of the goal line. if the opposing team
+
+
+                                                     shoots the ball there it is a goal kick, if the other team shoots there it is a corner kick. <br>
+
+
+                                                   <br>
+
+
+                                                     <il> <strong>   Fouls  </strong> <br>
+
+
+                                                                Fouls are when a player injures another player. If a player gets injured the player that injured him will
+
+
+                                                                either get a red card, a yellow card or a warning. <br>
+
+
+          <br>
+
+
+                                                            <il> <strong> Direct and Indirect Free Kicks </strong> <br>
+
+
+                                                                 Direct freekicks is when the player shoots the ball directly to the goal and does not pass. Indirect freekicks
+
+
+                                                                is when the player passes to his team first. <br>
+
+
+                                                                <br>
+
+
+                                                                <il>  <strong> Penalty Kicks </strong>  <br>
+
+
+                                                                    Penalty kicks are when a player injures or touches the ball with his hand in his own teams box. If he does
+
+
+                                                                    so there will be a penalty kick. If there is a penalty the  player in the opposing team will put the ball
+
+
+                                                                    on the white dot inide the box andhe will shoot. <br>
+
+
+                                                                  <br>
+
+
+                                                                <il>  <strong> Off side   </strong>   <br>
+
+
+                                                            Off side is when a player attacks and there is less than two opposition players against him. If this happens
+
+
+                                                                    the opposing team will get a free kick. <br>
+
+
+                                                                  <br>
+
+
+                                                                   </ol>
+
+
+                                                                   
+
+
+<a href = "https://www.youtube.com/watch?v=qknP-E-vPQ4" target = "_self">
+
+
+<img src="data:image/png;base64,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" width="150">                                                           
+
+
+                                                                  </a>
+
+
+                                                                  <a href = "https://www.youtube.com/watch?v=cTCgU4Vz0rE" target = "_self">
+
+
+<img src="data:image/png;base64,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" width="150">                                                           
+
+
+                                                                  </a> 
+
+
+   <br>
+
+   <h2> Famous players</h2>
+
+
+                                                                  <p><strong>Press on each players name below to go to there wikipidia website</strong></p>
+
+
+   <ol>
+
+
+     <a href = "https://en.wikipedia.org/wiki/Robert_Lewandowski" target = "_self">
+
+
+  <strong> <li> Levandowski <br>
+
+
+    </a>
+
+
+       <a href = "https://en.wikipedia.org/wiki/Cristiano_Ronaldo" target = "_self">
+
+
+   <li> Ronaldo <br>
+
+
+       </a>
+
+
+       <a href = "https://en.wikipedia.org/wiki/Lionel_Messi" target = "_self">
+
+
+   <li> Messi <br>
+
+
+       </a>
+
+
+       <a href = "https://en.wikipedia.org/wiki/Neymar" target = "_self">
+
+
+       <li> Neymar <br>
+
+
+       </a>
+
+
+       <a href = "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9" target = "_self">
+
+
+           <li> Mbappe <br>
+
+
+       </a>
+
+
+       <a href = "https://en.wikipedia.org/wiki/Mohamed_Salah" target = "_self">
+
+
+               <li> Salah <br>
+
+
+       </a>
+
+
+       <a href = "https://en.wikipedia.org/wiki/Eden_Hazard" target = "_self">
+
+
+                   <li> Hazard <br>
+
+
+                      </a>
+
+
+       <a href = "https://en.wikipedia.org/wiki/Antoine_Griezmann" target = "_self">
+
+
+                       <li> Griezman <br>
+
+
+                          </a>
+
+
+       <a href = "https://en.wikipedia.org/wiki/Sadio_Man%C3%A9" target = "_self">
+
+
+                           <li> Mane <br>
+
+
+       </a>
+
+
+       <a href = "https://en.wikipedia.org/wiki/Luka_Modri%C4%87" target = "_self">
+
+
+    <li> Modric </strong>
+
+
+     </a>
+
+
+   </ol>
+
+
+    <br>
+
+
+  
+
+
+
+
+
+
+                                                                  <h4> if you have any questions and concerns about our wesite please email <br>
+
+
+                                                                  kk12451@student.st-chris.net or kareemkhatib2511@gmail.com</h4>                                                               
+
+
+</body>
+
+
+</html>
+
+
